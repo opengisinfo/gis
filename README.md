@@ -11,24 +11,29 @@ A modern, flexible and scalable Geographic Information System (GIS) designed for
 - **Export** feature for extracting geospatial data from GIS Server in various formats.
 - **Dataset and Registers** management intarface and support for industry-standart geospatial data formats.
 
-## Documentation
+## Resources and Documentation
 
-For a detailed understanding of `gis`, its features, and how to use them, refer to our [Documentation](https://gis.opengis.info/welcome-to-docs).
+- [https://gis.opengis.info](https://gis.opengis.info)
 
-## Get started
 
-### Install
+## Install and Usage
+
+### 1. Install the package
 
 ```bash
 npm i @opengis/gis
 ```
 
-### Usage
+### 2. Usage
 
 ```
 import('@opengis/gis/plugin.js')
 ```
 
+## Contributions
+
+We welcome contributions! Feel free to open issues, suggest features, or submit pull requests.
+
 ## License
 
-MIT
+MIT License
